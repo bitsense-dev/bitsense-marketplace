@@ -1,0 +1,29 @@
+{
+  "name": "bitsense",
+  "owner": {
+    "name": "Bitsense",
+    "url": "https://bitsense.dev"
+  },
+  "metadata": {
+    "description": "Bitsense plugins for Claude Code.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "bitsense",
+      "description": "Personalize Claude Code to your team's codebase. Auto-injects team conventions, runs orchestrated reviews and code generation.",
+      "version": "0.1.0",
+      "homepage": "https://bitsense.dev",
+      "license": "MIT",
+      "author": {
+        "name": "Bitsense",
+        "url": "https://bitsense.dev"
+      },
+      "keywords": ["productivity", "code-quality", "team-conventions", "java", "spring-boot"],
+      "source": {
+        "source": "github",
+        "repo": "bitsense/bitsense-plugin"
+      }
+    }
+  ]
+}
