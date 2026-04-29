@@ -22,7 +22,7 @@
       "keywords": ["productivity", "code-quality", "team-conventions", "java", "spring-boot"],
       "source": {
         "source": "github",
-        "repo": "bitsense/bitsense-plugin"
+        "repo": "bitsense-dev/bitsense-plugin"
       }
     }
   ]
